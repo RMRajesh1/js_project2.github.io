@@ -1,0 +1,26 @@
+*{
+	text-align: center;
+	color:#000;
+}
+
+h1{
+	font-size: 30px;
+	margin:40vh auto 5vh;
+}
+#button{
+	display: block;
+	margin: auto;
+	outline: none;
+	color:#212529;
+	width: 120px;
+	height:45px;
+	font-size: 20px;
+	cursor: pointer;
+	background-color:transparent;
+	border: 1px solid grey;
+	border-radius: 10px;
+}
+#button:hover{
+	background-color: grey;
+	color: #fff;
+}
